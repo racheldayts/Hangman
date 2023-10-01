@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HangmanImage
+comment1.params=
+comment1.target=HangmanImage()
+comment2.params=
+comment2.target=void\ increaseCount()
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=
+comment4.target=void\ printImage()
+numComments=5
