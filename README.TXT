@@ -4,9 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Hangman
+PURPOSE OF PROJECT: To create a Hangman game
+AUTHORS: Rachel Dayts
+USER INSTRUCTIONS: When running code, enter guesses for game as uppercase letters
